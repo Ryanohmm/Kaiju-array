@@ -1,0 +1,15 @@
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.AssemblyInfoInputs.cache
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.AssemblyInfo.cs
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.csproj.CoreCompileInputs.cache
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.sourcelink.json
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\bin\Debug\net10.0\Kaiju-array.exe
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\bin\Debug\net10.0\Kaiju-array.deps.json
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\bin\Debug\net10.0\Kaiju-array.runtimeconfig.json
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\bin\Debug\net10.0\Kaiju-array.dll
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\bin\Debug\net10.0\Kaiju-array.pdb
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.dll
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\refint\Kaiju-array.dll
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.pdb
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\Kaiju-array.genruntimeconfig.cache
+C:\Users\shado\OneDrive\Documents\Kaiju-array\Kaiju-array\obj\Debug\net10.0\ref\Kaiju-array.dll

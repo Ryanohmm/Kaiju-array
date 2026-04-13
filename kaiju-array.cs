@@ -1,4 +1,4 @@
-// A short list of tasks for anyone unlucky enough to be on kaiju duty
+﻿// A short list of tasks for anyone unlucky enough to be on kaiju duty
 string[] sideQuests =
 {
     "Avoid the kaiju while scouting the city for food",
@@ -12,3 +12,4 @@ foreach (string quest in sideQuests)
 {
     Console.WriteLine($"- {quest}");
 }
+
